@@ -5,7 +5,7 @@ I've created this project to learn how to use the ThreeJS library, and I really 
 **Demo:** [here](https://ondrejpacovsky.cz/demo/highseas/RotatingEarth/index.html)
 
 # Preview
-![Preview](https://ondrejpacovsky.cz/demo/highseas/RotatingEarth/preview.jpg)
+![Preview](https://ondrejpacovsky.cz/demo/highseas/PlanetsSimulation/preview.jpg)
 
 # Sources
 **Library:** https://threejs.org/ <br>
